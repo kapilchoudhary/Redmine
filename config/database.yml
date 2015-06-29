@@ -1,0 +1,8 @@
+database.yml:
+production:
+  adapter: postgresql
+  database: redmine_db
+  host: localhost
+  username: redmine_user
+  password: )r4Dm1N3(
+  encoding: utf8
